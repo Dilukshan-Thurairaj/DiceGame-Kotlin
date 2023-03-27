@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CW1_diceGame</string>
+    <string name="new_game">New game</string>
+    <string name="about">About</string>
+    <string name="dice_game">Dice Game</string>
+    <string name="close_button">close_button</string>
+    <string name="pop_msg1">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students.</string>
+    <string name="pop_msg2">The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="student_name">Student Name: Dilukshan Thurairaj</string>
+    <string name="student_id">Student ID: 20210721</string>
+    <string name="throw_btn_name">Throw</string>
+    <string name="score_btn_name">Score</string>
+    <string name="dice_game_head">Dice Game</string>
+    <string name="dice_image">Dice Image </string>
+    <string name="image_dice">Image of dice</string>
+    <string name="user_icon">User Icon</string>
+    <string name="user">User</string>
+    <string name="computer_icon">Computer Icon</string>
+    <string name="computer">Computer</string>
+    <string name="updateThrow">Computer player did the first throw</string>
+    <string name="updateScore">Computer player finished throw, Score is updated</string>
+
+</resources>
